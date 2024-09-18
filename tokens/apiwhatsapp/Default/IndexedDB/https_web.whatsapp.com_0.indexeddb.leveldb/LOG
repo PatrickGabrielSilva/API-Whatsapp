@@ -1,0 +1,28 @@
+2024/09/17-16:27:49.306 43ac Reusing MANIFEST G:\Projetos VsCode\API Wpp\tokens\apiwhatsapp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/17-16:27:49.307 43ac Recovering log #81
+2024/09/17-16:27:49.315 43ac Reusing old log G:\Projetos VsCode\API Wpp\tokens\apiwhatsapp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000081.log 
+2024/09/17-16:27:50.558 6a90 Level-0 table #89: started
+2024/09/17-16:27:50.571 6a90 Level-0 table #89: 258338 bytes OK
+2024/09/17-16:27:50.574 6a90 Delete type=0 #81
+2024/09/17-16:27:50.575 43ac Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/17-16:27:50.576 43ac Level-0 table #91: started
+2024/09/17-16:27:50.581 43ac Level-0 table #91: 436 bytes OK
+2024/09/17-16:27:50.584 43ac Delete type=0 #88
+2024/09/17-16:27:50.584 43ac Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 504720 : 0
+2024/09/17-16:27:50.584 43ac Compacting 1@0 + 1@1 files
+2024/09/17-16:27:50.595 43ac Generated table #92@0: 4001 keys, 131277 bytes
+2024/09/17-16:27:50.595 43ac Compacted 1@0 + 1@1 files => 131277 bytes
+2024/09/17-16:27:50.598 43ac compacted to: files[ 0 1 3 0 0 0 0 ]
+2024/09/17-16:27:50.598 43ac Delete type=2 #91
+2024/09/17-16:27:50.598 43ac Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 504720 : 0 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/17-16:27:52.138 4b8c Compacting 1@1 + 3@2 files
+2024/09/17-16:27:52.194 4b8c Generated table #93@1: 31375 keys, 2188033 bytes
+2024/09/17-16:27:52.247 4b8c Generated table #94@1: 26286 keys, 2201658 bytes
+2024/09/17-16:27:52.296 4b8c Generated table #95@1: 52812 keys, 1104306 bytes
+2024/09/17-16:27:52.296 4b8c Compacted 1@1 + 3@2 files => 5493997 bytes
+2024/09/17-16:27:52.299 4b8c compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/09/17-16:27:52.299 4b8c Delete type=2 #84
+2024/09/17-16:27:52.299 4b8c Delete type=2 #85
+2024/09/17-16:27:52.299 4b8c Delete type=2 #86
+2024/09/17-16:27:52.299 4b8c Delete type=2 #89
+2024/09/17-16:27:52.299 4b8c Delete type=2 #92

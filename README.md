@@ -1,5 +1,4 @@
-WhatsApp Message Sender API
-Este projeto é uma API simples construída com Node.js, Express e Venom-Bot, que permite o envio de mensagens via WhatsApp. Utilizando o Venom-Bot, a API se conecta a uma instância do WhatsApp e envia mensagens programaticamente para números de telefone especificados.
+Este projeto é uma API simples construída com Node.js, Express e Venom-Bot, que permite o envio de mensagens via WhatsApp. Utilizando o Venom-Bot, a API se conecta a uma instância do WhatsApp e envia mensagens programaticamente para números de telefone.
 
 Funcionalidades
 Enviar mensagens de texto para contatos do WhatsApp via uma requisição HTTP POST.
@@ -8,14 +7,13 @@ Sessão persistente com o Venom-Bot.
 Endpoints
 POST /send-message: Envia uma mensagem de texto para um número especificado.
 
-Exemplo de corpo da requisição:
+Exemplo:
 
-json
-Copiar código
 {
   "to": "5521999999999",
   "message": "Olá, esta é uma mensagem automática!"
 }
+
 Tecnologias utilizadas
 Node.js: Plataforma de desenvolvimento JavaScript no lado do servidor.
 Express: Framework minimalista para criação de APIs web.

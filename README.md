@@ -6,20 +6,3 @@ Suporta JSON como formato de entrada.
 Sessão persistente com o Venom-Bot.
 Endpoints
 POST /send-message: Envia uma mensagem de texto para um número especificado.
-
-Exemplo:
-
-{
-  "to": "5521999999999",
-  "message": "Olá, esta é uma mensagem automática!"
-}
-
-Tecnologias utilizadas
-Node.js: Plataforma de desenvolvimento JavaScript no lado do servidor.
-Express: Framework minimalista para criação de APIs web.
-Venom-Bot: Biblioteca para interação com o WhatsApp Web.
-Como rodar o projeto
-Clone o repositório.
-Execute npm install para instalar as dependências.
-Inicie o servidor com node app.js.
-Acesse a API na porta configurada (padrão: 3000).
